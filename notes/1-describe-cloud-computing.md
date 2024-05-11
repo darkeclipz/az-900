@@ -19,7 +19,7 @@
  * Because cloud computing uses the internet to deliver these services, it doesn't have to be constraint by physical infrastructure the same way that a traditional datacenter is. You can rapidly scale your IT infrastructure.
  * You only have to pay for the services you use.
  * The basic services that all cloud providers deliver are *compute power* and *storage*.
- * Cloud providers manage the upkeep of the computer, ensure there a back ups and that the operating system is up to date, as well as making sure that everything is up an running 27/7.
+ * Cloud providers manage the upkeep of the computer, ensure there a back ups and that the operating system is up to date, as well as making sure that everything is up an running 24/7.
 
 ## Describe the shared responsibility model
 
