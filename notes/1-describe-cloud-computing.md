@@ -1,7 +1,7 @@
 # 1. Describe Cloud Computing
 
   * Microsoft Azure is a *cloud computing platform*.
-  * What is a cloud? A system that delivers IT services over the internet.
+  * What is a **cloud**? A system that delivers IT services over the internet.
   * Azure service supports: simple web services, fully virtualized computers, remote storage, database hosting, centralized account management, artificial intelligence and IoT services.
 
 **AZ-900 Domain Area**
@@ -12,7 +12,7 @@
 
 ## What is Cloud Computing?
 
- * Cloud computing is the delivery of computing services over the internet.
+ * **Cloud computing** is the delivery of computing services over the internet.
  * Computing services include:
    * Common IT infrastructure: virtual machines, storage, databases, and networking.
    * Internet of Things (IoT), machine learning (ML), and artificial intelligence (AI) infrastructure.
@@ -23,11 +23,11 @@
 
 ## Describe the shared responsibility model
 
-  * The shared responsibility model informs who is responsible for what, depending on the cloud service type.
+  * The **shared responsibility model** informs who is responsible for what, depending on the cloud service type.
   * There are three cloud services types:
-    * infrastructure as a service (IaaS)
-    * platform as a service (PaaS)
-    * software as a service (SaaS)
+    * infrastructure as a service (**IaaS**)
+    * platform as a service (**PaaS**)
+    * software as a service (**SaaS**)
   * Traditionally, with a on-premise datacenter, the customer is responsibility for everything. This includes physical hardware, networking, keeping operating systems up to date and managing software.
   * When using a cloud provider you are always responsible for: the information and data stored in the cloud, devices that are allowed to connect to your cloud, and the accounts and identities of people, services and devices within your organization.
   * The cloud provider is always responsible for: the physical data center, the physical network, and the physical hosts.
@@ -53,16 +53,16 @@ The following table highlights a few key comparitive aspects between the cloud m
 |Organizations pay only for what they use.|Hardware must be purchased for startup and maintenance.|Organizations control security, compliance, or legal requirements.|
 |Organizations don't have complete control over resources and security.|Organizations are responsible for hardware maintenance and updates.||
 
-  * *Multi-cloud*: In a multi-cloud scenario you use multiple public cloud providers.
-  * *Azure Arc*: Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment.
-  * *Azure VMware Solution*: If you have already established with VMware in your private cloud but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
+  * **Multi-cloud**: In a multi-cloud scenario you use multiple public cloud providers.
+  * **Azure Arc**: Azure Arc is a set of technologies that helps manage your cloud environment. Azure Arc can help manage your cloud environment, whether it's a public cloud solely on Azure, a private cloud in your datacenter, a hybrid configuration, or even a multi-cloud environment.
+  * **Azure VMware Solution**: If you have already established with VMware in your private cloud but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
 
 ## Describe the consumption-based model
 
   * When comparing IT infrastructure models, there are two types of expenses to consider:
-    * Capital expenditure (CapEx): is typically a one-time, up-front expenditure to purchase or secure tangible resources.
-    * Operation expenditure (OpEx): is spending moeny on services or products over time.
-  * Cloud computing falls under OpEx because cloud computing operates on a consumption-based model. You don't pay for the physical infrastructure, electricity, or anything else with maintaining a data center. Instead, you only pay for the resources that you use. If you don't use any IT resources this month, you don't pay for any IT resources.
+    * **Capital expenditure** (CapEx): is typically a one-time, up-front expenditure to purchase or secure tangible resources.
+    * **Operation expenditure** (OpEx): is spending moeny on services or products over time.
+  * Cloud computing falls under OpEx because cloud computing operates on a **consumption-based model**. You don't pay for the physical infrastructure, electricity, or anything else with maintaining a data center. Instead, you only pay for the resources that you use. If you don't use any IT resources this month, you don't pay for any IT resources.
  * Benefits of the consumption-based model:
    * No upfront costs.
    * No need to purchase and manage costly infrastructure.
