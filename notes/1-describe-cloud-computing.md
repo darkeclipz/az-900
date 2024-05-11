@@ -1,4 +1,4 @@
-# 1. Describe Cloud Computing
+# Describe Cloud Computing
 
   * Microsoft Azure is a *cloud computing platform*.
   * What is a **cloud**? A system that delivers IT services over the internet.
