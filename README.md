@@ -12,3 +12,4 @@ These are some notes for the AZ-900 course:
   * https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/
   * https://learn.microsoft.com/en-us/training/paths/azure-fundamentals-describe-azure-architecture-services/
   * https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/
+
